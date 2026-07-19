@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
-  <text x="400" y="150" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="bold" fill="#1B2A4A" letter-spacing="6">BME</text>
-  <path d="M120 200 L300 200 L330 168 L362 226 L392 132 L424 252 L452 200 L680 200" fill="none" stroke="#E63946" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="400" y="262" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#5A6B8C" letter-spacing="10">HEARTBEAT MONITOR</text>
-</svg>
