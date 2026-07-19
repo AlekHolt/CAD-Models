@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__obsidian__search_simple",
-      "mcp__e15cdfb0-2042-48f3-b8b7-22e2b05262bb__search_files"
-    ]
-  }
-}
